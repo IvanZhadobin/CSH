@@ -1,0 +1,10 @@
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.Form1.resources
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.Properties.Resources.resources
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.csproj.GenerateResource.cache
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.csproj.CoreCompileInputs.cache
+C:\Users\zhado\source\repos\СSharp1\СSharp1\bin\Debug\СSharp1.exe.config
+C:\Users\zhado\source\repos\СSharp1\СSharp1\bin\Debug\СSharp1.exe
+C:\Users\zhado\source\repos\СSharp1\СSharp1\bin\Debug\СSharp1.pdb
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.exe
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.pdb
+C:\Users\zhado\source\repos\СSharp1\СSharp1\obj\Debug\СSharp1.csproj.AssemblyReference.cache
