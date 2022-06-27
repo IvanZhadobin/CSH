@@ -1,0 +1,8 @@
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp1_view.csproj.AssemblyReference.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp1_view.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\СSharp1_view.Form1.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp1_view.Properties.Resources.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp1_view.csproj.GenerateResource.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp1_view.csproj.CoreCompileInputs.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\СSharp_view.Form1.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\CSharp_view\obj\Debug\CSharp_view.Properties.Resources.resources
