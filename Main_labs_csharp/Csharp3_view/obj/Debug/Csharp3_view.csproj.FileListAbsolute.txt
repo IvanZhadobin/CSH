@@ -1,0 +1,15 @@
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.csproj.AssemblyReference.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.csproj.SuggestedBindingRedirects.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.Form1.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.Properties.Resources.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.csproj.GenerateResource.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.csproj.CoreCompileInputs.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\bin\Debug\Csharp3_view.exe.config
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\bin\Debug\Csharp3_view.exe
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\bin\Debug\Csharp3_view.pdb
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\bin\Debug\Csharp3_model.dll
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\bin\Debug\Csharp3_model.pdb
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.add_build.resources
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.csproj.CopyComplete
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.exe
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_view\obj\Debug\Csharp3_view.pdb

@@ -1,0 +1,6 @@
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\obj\Debug\Csharp3_model.csproj.AssemblyReference.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\obj\Debug\Csharp3_model.csproj.CoreCompileInputs.cache
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\bin\Debug\Csharp3_model.dll
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\bin\Debug\Csharp3_model.pdb
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\obj\Debug\Csharp3_model.dll
+C:\Users\zhado\OneDrive\Рабочий стол\Main_Labs\Csharp3_model\obj\Debug\Csharp3_model.pdb
